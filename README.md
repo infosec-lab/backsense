@@ -18,6 +18,17 @@
 
 **BackSense** is a professional-grade Server-Side Request Forgery (SSRF) detection extension for Burp Suite Professional. It provides comprehensive, multi-stage validation with 100% true positive accuracy and advanced payload generation for detecting SSRF vulnerabilities in modern web applications.
 
+## ⚠️ Development Status
+
+> **Note**: BackSense v2.0.0 is currently in active development. While the core functionality is stable, there are known issues that will be addressed in future releases. Please report any bugs or issues through GitHub Issues or contact the developer directly.
+
+### **Known Issues**
+- Some edge cases in payload generation may need refinement
+- Advanced WAF bypass techniques are under development
+- UI improvements and additional features planned for v2.1.0
+
+---
+
 ## 🚀 Key Features
 
 ### **Advanced SSRF Detection**
@@ -218,24 +229,12 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### **Lead Developer**
 **Vikas Kumar**  
 *Senior Security Consultant*  
-📧 **Email**: [vikasraj225@gmail.com](mailto:vikasraj225@gmail.com)  
-🔗 **LinkedIn**: [Vikas Kumar](https://linkedin.com/in/vikas-kumar-security)  
-🐦 **Twitter**: [@vikas_kumar_sec](https://twitter.com/vikas_kumar_sec)  
+📧 **Email**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)  
+🌍 **Location**: Bengaluru, India  
+🔗 **LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)  
 📖 **GitHub**: [@infosec-lab](https://github.com/infosec-lab)  
 
-### **About the Developer**
-Vikas Kumar is a Senior Security Consultant with extensive experience in:
-- **Web Application Security Testing**
-- **Penetration Testing & Red Teaming**
-- **Security Tool Development**
-- **SSRF & Server-Side Vulnerabilities**
-- **Burp Suite Extension Development**
 
-### **Project Credits**
-- **BackSense v2.0.0** - Advanced SSRF Detection Engine
-- **Multi-stage Validation** - 100% True Positive Accuracy
-- **Professional UI/UX** - Enterprise-Grade Interface
-- **Comprehensive Documentation** - Complete User Guides
 
 ### **Special Thanks**
 - **PortSwigger** - For the excellent Burp Suite platform
@@ -247,16 +246,16 @@ Vikas Kumar is a Senior Security Consultant with extensive experience in:
 ## 📞 Support & Contact
 
 ### **Technical Support**
-- 📧 **Email**: [vikasraj225@gmail.com](mailto:vikasraj225@gmail.com)
+- 📧 **Email**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/infosec-lab/backsense/issues)
 - 📖 **Documentation**: [Wiki](https://github.com/infosec-lab/backsense/wiki)
 
 ### **Professional Services**
 For enterprise support, custom development, or security consulting:
-- **Security Assessments** - Comprehensive penetration testing
-- **Tool Development** - Custom security tools and extensions
-- **Training** - Security awareness and technical training
-- **Consulting** - Strategic security guidance
+- **Security Assessments** - Comprehensive penetration testing and vulnerability assessments
+- **Tool Development** - Custom Burp Suite extensions and security automation tools
+- **Training** - Security awareness workshops and technical training
+- **Consulting** - Strategic security guidance and implementation support
 
 ---
 
@@ -276,50 +275,17 @@ For enterprise support, custom development, or security consulting:
 ### **Settings Configuration**
 ![Settings](docs/screenshots/settings.png)
 
-### **Professional Reports**
-![Reports](docs/screenshots/reports.png)
+
 
 </div>
 
-*📸 **Screenshot Guidelines**: Take screenshots at 1920x1080 resolution, PNG format, dark theme preferred. See [docs/screenshots/README.md](docs/screenshots/README.md) for detailed instructions.*
-4. Import into your IDE
-5. Build with `mvn package`
+*📸 **Live Screenshots**: Professional UI captured from actual BackSense v2.0.0 running in Burp Suite Professional.*
 
-### **Testing**
-- Run unit tests: `mvn test`
-- Integration tests: `mvn verify`
-- Manual testing in Burp Suite
+---
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **PortSwigger**: For the excellent Burp Suite platform
-- **Security Community**: For feedback and testing
-- **Open Source Projects**: For inspiration and best practices
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/backsense/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/backsense/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/backsense/wiki)
-
-## 🔄 Version History
-
-### **v2.0.0** (Current)
-- Complete rewrite with professional architecture
-- Multi-stage validation system
-- Advanced payload generation
-- Professional UI/UX
-- Comprehensive documentation
-
-### **v1.0.0**
-- Initial release
-- Basic SSRF detection
-- Simple payload generation
-- Basic UI
 
 ---
 

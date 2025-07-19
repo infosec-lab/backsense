@@ -10,6 +10,6 @@ Implementation-Vendor: Vikas Kumar - Senior Security Consultant
 Built-By: Vikas Kumar
 Build-Date: 2025-01-27
 Author: Vikas Kumar
-Author-Email: vikasraj225@gmail.com
+Author-Email: infoseclab005@gmail.com
 Author-Website: https://github.com/backsense/backsense
 

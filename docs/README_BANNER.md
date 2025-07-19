@@ -19,7 +19,8 @@
 ---
 
 **Developed by Vikas Kumar - Senior Security Consultant**  
-📧 **Contact**: [vikasraj225@gmail.com](mailto:vikasraj225@gmail.com)
+📧 **Contact**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)  
+🔗 **LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)
 
 ---
 

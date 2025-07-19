@@ -154,15 +154,14 @@ By contributing to BackSense, you agree that your contributions will be licensed
 For questions or support:
 - Create an issue on GitHub
 - Join our community discussions
-- Contact the maintainer: **Vikas Kumar** - [vikasraj225@gmail.com](mailto:vikasraj225@gmail.com)
+- Contact the maintainer: **Vikas Kumar** - [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)
 
 ## 👨‍💻 Lead Developer
 
 **Vikas Kumar**  
 *Senior Security Consultant*  
-📧 **Email**: [vikasraj225@gmail.com](mailto:vikasraj225@gmail.com)  
-🔗 **LinkedIn**: [Vikas Kumar](https://linkedin.com/in/vikas-kumar-security)  
-🐦 **Twitter**: [@vikas_kumar_sec](https://twitter.com/vikas_kumar_sec)  
+📧 **Email**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)  
+🔗 **LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)  
 
 ### Professional Background
 - **Web Application Security Testing**

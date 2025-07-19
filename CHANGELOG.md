@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [2.0.0] - 2025-01-27
 
 **Lead Developer**: Vikas Kumar - Senior Security Consultant  
-**Contact**: vikasraj225@gmail.com
+**Contact**: infoseclab005@gmail.com  
+**LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)
 
 ### Added
 - **Advanced SSRF Detection Engine**: Multi-stage validation with 100% true positive accuracy

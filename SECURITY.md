@@ -15,7 +15,7 @@ We take security vulnerabilities seriously. If you discover a security issue in 
 
 ### **DO** report security vulnerabilities privately:
 
-1. **Email**: vikasraj225@gmail.com
+1. **Email**: infoseclab005@gmail.com
 2. **Subject**: [SECURITY] BackSense Vulnerability Report
 3. **Encrypted Communication**: PGP key available upon request
 
@@ -111,12 +111,13 @@ We follow responsible disclosure practices:
 ## Security Contacts
 
 ### Primary Security Contact
-- **Email**: vikasraj225@gmail.com
+- **Email**: infoseclab005@gmail.com
 - **Name**: Vikas Kumar - Senior Security Consultant
+- **LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)
 - **Response Time**: 24-48 hours
 
 ### Backup Security Contact
-- **Email**: vikasraj225@gmail.com (with [BACKUP] in subject)
+- **Email**: infoseclab005@gmail.com (with [BACKUP] in subject)
 - **Response Time**: 48-72 hours
 
 ## Security Acknowledgments

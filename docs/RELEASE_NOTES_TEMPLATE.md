@@ -10,7 +10,7 @@
 
 **Release Date**: January 27, 2025  
 **Developer**: Vikas Kumar - Senior Security Consultant  
-**Contact**: [vikasraj225@gmail.com](mailto:vikasraj225@gmail.com)
+**Contact**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)
 
 ---
 
@@ -302,7 +302,7 @@ waf.bypass.enabled=true
 ## 📞 Support & Contact
 
 ### Technical Support
-- **📧 Email**: [vikasraj225@gmail.com](mailto:vikasraj225@gmail.com)
+- **📧 Email**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)
 - **🐛 Issues**: [GitHub Issues](https://github.com/backsense/backsense/issues)
 - **📖 Documentation**: [Wiki](https://github.com/backsense/backsense/wiki)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/backsense/backsense/discussions)
@@ -327,7 +327,7 @@ For enterprise support, custom development, or security consulting:
 ### Lead Developer
 **Vikas Kumar**  
 *Senior Security Consultant*  
-📧 **Email**: [vikasraj225@gmail.com](mailto:vikasraj225@gmail.com)  
+📧 **Email**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)  
 🔗 **LinkedIn**: [Vikas Kumar](https://linkedin.com/in/vikas-kumar-security)  
 🐦 **Twitter**: [@vikas_kumar_sec](https://twitter.com/vikas_kumar_sec)  
 
@@ -351,6 +351,6 @@ For enterprise support, custom development, or security consulting:
 
 *Professional SSRF Detection for Security Professionals*
 
-[Download Now](https://github.com/backsense/backsense/releases/latest) • [Documentation](https://github.com/backsense/backsense/wiki) • [Support](mailto:vikasraj225@gmail.com)
+[Download Now](https://github.com/backsense/backsense/releases/latest) • [Documentation](https://github.com/backsense/backsense/wiki) • [Support](mailto:infoseclab005@gmail.com)
 
 </div> 
