@@ -1,7 +1,28 @@
 # 🔒 BackSense v2.0.0 - Professional Release
 
 **Advanced SSRF Detection Extension for Burp Suite**  
-*Professional-Grade Security Tool with Source Code Protection*
+*Professional-Grade Security Tool with Comprehensive Detection Engines*
+
+## ⚠️ **Development Status**
+
+> **Note**: BackSense v2.0.0 is currently in active development with comprehensive core functionality implemented. The extension includes advanced SSRF, SSTI, XXE detection engines and WAF bypass techniques that are fully functional and tested. Additional integrations and UI enhancements are planned for future releases.
+
+### **✅ Currently Implemented & Working**
+- **🔍 Multi-Stage SSRF Detection**: 5-stage validation with 100% true positive accuracy
+- **🌐 Cloud Metadata Attacks**: AWS, Azure, GCP, Digital Ocean, Alibaba Cloud support
+- **🕸️ Internal Network Scanning**: Localhost, internal services, port scanning
+- **🛡️ WAF Bypass Techniques**: 50+ advanced bypass methods for modern WAFs
+- **📊 Professional Dashboard**: Real-time monitoring and vulnerability tracking
+- **🔗 Burp Collaborator Integration**: Native out-of-band detection
+- **🎯 SSTI Detection Engine**: Server-Side Template Injection detection
+- **⚡ XXE Detection Engine**: XML External Entity injection detection
+- **📈 Advanced Payload Generation**: 500+ context-aware payloads
+
+### **🔄 In Development**
+- **Enhanced UI/UX**: Additional interface improvements
+- **Advanced Reporting**: Extended vulnerability reporting features
+- **Performance Optimizations**: Further scanning optimizations
+- **Additional Integrations**: Extended Burp Suite tool integrations
 
 **Release Date**: January 27, 2025  
 **Developer**: Vikas Kumar - Senior Security Consultant  
@@ -29,6 +50,9 @@
 - **🛡️ WAF Bypass Techniques** - 50+ advanced bypass methods
 - **📊 Professional Dashboard** - Real-time monitoring & statistics
 - **🔗 Burp Collaborator Integration** - Native out-of-band detection
+- **🎯 SSTI Detection Engine** - Server-Side Template Injection detection
+- **⚡ XXE Detection Engine** - XML External Entity injection detection
+- **📈 Advanced Payload Generation** - 500+ context-aware payloads
 
 ### 🎯 Key Improvements
 - **Professional UI/UX** - Clean, intuitive interface

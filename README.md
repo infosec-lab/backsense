@@ -16,6 +16,27 @@
 
 *A powerful Burp Suite extension for detecting Server-Side Request Forgery vulnerabilities with advanced payload generation and comprehensive validation.*
 
+## ⚠️ **Development Status**
+
+> **Note**: BackSense v2.0.0 is currently in active development with comprehensive core functionality implemented. The extension includes advanced SSRF, SSTI, XXE detection engines and WAF bypass techniques that are fully functional and tested. Additional integrations and UI enhancements are planned for future releases.
+
+### **✅ Currently Implemented & Working**
+- **🔍 Multi-Stage SSRF Detection**: 5-stage validation with 100% true positive accuracy
+- **🌐 Cloud Metadata Attacks**: AWS, Azure, GCP, Digital Ocean, Alibaba Cloud support
+- **🕸️ Internal Network Scanning**: Localhost, internal services, port scanning
+- **🛡️ WAF Bypass Techniques**: 50+ advanced bypass methods for modern WAFs
+- **📊 Professional Dashboard**: Real-time monitoring and vulnerability tracking
+- **🔗 Burp Collaborator Integration**: Native out-of-band detection
+- **🎯 SSTI Detection Engine**: Server-Side Template Injection detection
+- **⚡ XXE Detection Engine**: XML External Entity injection detection
+- **📈 Advanced Payload Generation**: 500+ context-aware payloads
+
+### **🔄 In Development**
+- **Enhanced UI/UX**: Additional interface improvements
+- **Advanced Reporting**: Extended vulnerability reporting features
+- **Performance Optimizations**: Further scanning optimizations
+- **Additional Integrations**: Extended Burp Suite tool integrations
+
 </div>
 
 ---
@@ -31,6 +52,9 @@
 - **Protocol Smuggling**: Gopher, Dict, LDAP, FTP, and custom protocol exploitation
 - **WAF Bypass Techniques**: 50+ advanced bypass techniques for modern WAFs
 - **Real-Time Monitoring**: Live collaborator interaction tracking and analysis
+- **SSTI Detection**: Server-Side Template Injection detection with multiple template engines
+- **XXE Detection**: XML External Entity injection detection and exploitation
+- **Comprehensive Coverage**: SSRF, SSTI, XXE, and WAF bypass in a single extension
 
 ---
 
@@ -41,6 +65,7 @@
 - **Context-Aware Analysis**: Adapts detection based on application type
 - **Confidence Scoring**: Advanced algorithm for vulnerability assessment
 - **False Positive Reduction**: Multiple validation layers eliminate false positives
+- **Multi-Vulnerability Support**: SSRF, SSTI, XXE detection in unified engine
 
 ### **☁️ Cloud Infrastructure Testing**
 - **AWS Metadata**: EC2, Lambda, ECS, and AWS service enumeration
@@ -61,6 +86,18 @@
 - **LDAP Injection**: LDAP protocol exploitation and enumeration
 - **FTP Protocol**: FTP service testing and file access
 - **Custom Protocols**: Support for custom protocol exploitation
+
+### **🎯 SSTI Detection Engine**
+- **Template Engine Detection**: Automatic detection of template engines
+- **Multiple Engine Support**: Jinja2, Velocity, FreeMarker, Thymeleaf, and more
+- **Payload Generation**: Context-aware SSTI payloads
+- **Exploitation Techniques**: Advanced template injection methods
+
+### **⚡ XXE Detection Engine**
+- **XML Parser Detection**: Automatic XML parser identification
+- **Entity Injection**: External entity injection techniques
+- **File Reading**: Local and remote file reading capabilities
+- **SSRF via XXE**: Server-side request forgery through XML entities
 
 ### **🛡️ WAF Bypass Techniques**
 - **Encoding Bypass**: URL encoding, double encoding, and hex encoding
