@@ -1,6 +1,6 @@
-# 🔍 BackSense v2.0.0 - Professional Vulnerability Detection Extension
+# 🔍 BackSense v2.0.0 - Professional Server-Side Vulnerability Detection Extension
 
-**Advanced Vulnerability Detection for Burp Suite Professional**
+**Advanced Server-Side Vulnerability Detection for Burp Suite Professional**
 
 > **Note**: Currently in active development. Core detection engines (SSRF, SSTI, XXE, WAF bypass) are fully functional. Additional UI enhancements and integrations planned for future releases.
 

@@ -1,4 +1,4 @@
-# 🔍 BackSense - Advanced Vulnerability Detection Extension
+# 🔍 BackSense – Advanced Server-Side Vulnerability Detection Extension for Burp Suite
 
 <div align="center">
 
@@ -7,14 +7,14 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Professional-orange?style=for-the-badge&logo=security)
 ![Java](https://img.shields.io/badge/Java-8+-red?style=for-the-badge&logo=java)
 
-**Professional-Grade Vulnerability Detection with Multi-Stage Validation**
+**Professional-Grade Server-Side Vulnerability Detection with Multi-Stage Validation**
 
 [![GitHub release](https://img.shields.io/github/v/release/infosec-lab/backsense)](https://github.com/infosec-lab/backsense/releases)
 [![GitHub stars](https://img.shields.io/github/stars/infosec-lab/backsense?style=social)](https://github.com/infosec-lab/backsense)
 [![GitHub forks](https://img.shields.io/github/forks/infosec-lab/backsense?style=social)](https://github.com/infosec-lab/backsense)
 [![GitHub issues](https://img.shields.io/github/issues/infosec-lab/backsense)](https://github.com/infosec-lab/backsense/issues)
 
-*A comprehensive Burp Suite extension for detecting SSRF, SSTI, XXE vulnerabilities and WAF bypass techniques.*
+*A comprehensive Burp Suite extension for detecting server-side vulnerabilities including SSRF, SSTI, XXE and WAF bypass techniques.*
 
 > **Note**: Currently in active development. Core detection engines (SSRF, SSTI, XXE, WAF bypass) are fully functional. Additional UI enhancements and integrations planned for future releases.
 
