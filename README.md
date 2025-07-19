@@ -97,6 +97,14 @@
 
 *Real-time statistics and vulnerability tracking with professional analytics*
 
+<img src="docs/screenshots/collaborator-monitoring.png" alt="Collaborator Monitoring" style="border: 2px solid #00d4ff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+*Real-Time Collaborator Monitoring*
+
+<img src="docs/screenshots/settings.png" alt="Settings Configuration" style="border: 2px solid #00d4ff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+*Advanced Settings Configuration*
+
 </div>
 
 ### **📈 Live Statistics**
@@ -164,23 +172,6 @@ Protocol Filtering: HTTP, HTTPS, or both
 - **Parameter Analysis**: Analyzes all parameters for SSRF potential
 - **Header Injection**: Checks headers for SSRF vulnerabilities
 - **Modern API Support**: GraphQL, JSON, JWT, Base64, XML analysis
-
----
-
-## 📸 **Professional Interface**
-
-<div align="center">
-
-### **Vulnerability Detection & Analysis**
-<img src="docs/screenshots/vulnerability-detection.png" alt="Vulnerability Detection" style="border: 2px solid #00d4ff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-### **Real-Time Collaborator Monitoring**
-<img src="docs/screenshots/collaborator-monitoring.png" alt="Collaborator Monitoring" style="border: 2px solid #00d4ff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-### **Advanced Settings Configuration**
-<img src="docs/screenshots/settings.png" alt="Settings Configuration" style="border: 2px solid #00d4ff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-</div>
 
 ---
 
