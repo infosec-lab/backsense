@@ -243,34 +243,6 @@ Protocol Filtering: HTTP, HTTPS, or both
 
 ---
 
-## 🚨 **Troubleshooting**
-
-### **Common Issues & Solutions**
-
-#### **Extension Not Loading**
-```bash
-✅ Verify Burp Suite Professional is installed
-✅ Check Java version (8+ required)
-✅ Ensure JAR file is not corrupted
-✅ Check Burp Suite logs for errors
-```
-
-#### **No Collaborator Interactions**
-```bash
-✅ Verify Burp Collaborator is enabled
-✅ Check network connectivity
-✅ Ensure target can reach collaborator
-✅ Verify payload generation is working
-```
-
-#### **False Positives/Negatives**
-```bash
-✅ Adjust confidence threshold
-✅ Enable debug mode for detailed logging
-✅ Check scope configuration
-✅ Verify parameter filtering settings
-```
-
 ### **🔍 Debug Mode**
 Enable debug mode in **Configuration** tab for detailed logging:
 - **Payload Generation**: See generated payloads and logic
@@ -302,7 +274,7 @@ mvn clean compile
 
 ## 🏆 **Credits**
 
-**Vikas Kumar** - *Senior Security Consultant & AI-Augmented Developer*  
+**Vikas Kumar** - *Senior Security Consultant*  
 📧 **Email**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)  
 🔗 **LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)  
 📖 **GitHub**: [@infosec-lab](https://github.com/infosec-lab)  
