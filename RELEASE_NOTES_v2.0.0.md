@@ -12,17 +12,11 @@
 
 ## 📦 Release Files
 
-### **BackSense-v2.0.0.jar** (Recommended)
-- **Size**: 407KB
+### **BackSense-v2.0.0.jar** (Production Release)
+- **Size**: 398KB
 - **Type**: Production-ready JAR
-- **Use**: Production deployment, enterprise clients
-- **Features**: Optimized performance and security
-
-### **BackSense-v2.0.0-source-code.jar** (Community)
-- **Size**: 407KB
-- **Type**: Standard compiled JAR
-- **Use**: Community learning, development
-- **Features**: Source code accessible for learning
+- **Use**: Production deployment, enterprise clients, security professionals
+- **Features**: Optimized performance, comprehensive SSRF detection, professional UI
 
 ---
 
@@ -62,18 +56,13 @@
 
 ## 🛠️ Installation
 
-### **For Production Use (Recommended)**
+### **Installation Instructions**
 1. **Download** `BackSense-v2.0.0.jar`
 2. **Open** Burp Suite Professional
 3. **Navigate** to Extensions → Extensions
 4. **Click** "Add" → "Extension Type: Java"
 5. **Select** the downloaded JAR
 6. **Click** "Next" and "Close"
-
-### **For Development/Community**
-1. **Download** `BackSense-v2.0.0-source-code.jar`
-2. **Follow** same installation steps
-3. **Access** source code for learning and development
 
 ---
 
@@ -163,7 +152,7 @@ For enterprise support, custom development, or security consulting:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Note**: The production version is optimized for commercial use while maintaining open source benefits for the community.
+**Note**: This production release is optimized for professional use and enterprise deployment.
 
 ---
 
