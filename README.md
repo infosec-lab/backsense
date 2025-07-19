@@ -93,7 +93,7 @@
 
 <div align="center">
 
-![BackSense Dashboard](docs/screenshots/dashboard.png)
+<img src="docs/screenshots/dashboard.png" alt="BackSense Dashboard" style="border: 2px solid #00d4ff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 *Real-time statistics and vulnerability tracking with professional analytics*
 
@@ -172,13 +172,13 @@ Protocol Filtering: HTTP, HTTPS, or both
 <div align="center">
 
 ### **Vulnerability Detection & Analysis**
-![Vulnerability Detection](docs/screenshots/vulnerability-detection.png)
+<img src="docs/screenshots/vulnerability-detection.png" alt="Vulnerability Detection" style="border: 2px solid #00d4ff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ### **Real-Time Collaborator Monitoring**
-![Collaborator Monitoring](docs/screenshots/collaborator-monitoring.png)
+<img src="docs/screenshots/collaborator-monitoring.png" alt="Collaborator Monitoring" style="border: 2px solid #00d4ff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ### **Advanced Settings Configuration**
-![Settings Configuration](docs/screenshots/settings.png)
+<img src="docs/screenshots/settings.png" alt="Settings Configuration" style="border: 2px solid #00d4ff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 </div>
 
@@ -340,7 +340,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**BackSense** - Professional SSRF Detection for Modern Web Applications
+**BackSense** - Professional Server-Side Vulnerability Detection for Modern Web Applications
 
 *Built with ❤️ for the security community*
 

@@ -134,9 +134,8 @@ We thank the security researchers who have responsibly disclosed vulnerabilities
 - [Java Security](https://docs.oracle.com/javase/8/docs/technotes/guides/security/)
 
 ### Internal Resources
-- [Security Guidelines](docs/SECURITY_GUIDELINES.md)
-- [Code Review Checklist](docs/CODE_REVIEW.md)
-- [Testing Procedures](docs/TESTING.md)
+
+
 
 ---
 

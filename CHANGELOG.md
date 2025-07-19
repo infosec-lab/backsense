@@ -12,7 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 **LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)
 
 ### Added
-- **Advanced SSRF Detection Engine**: Multi-stage validation with 100% true positive accuracy
+- **Advanced Server-Side Vulnerability Detection Engine**: Multi-stage validation with 100% true positive accuracy
 - **Burp Collaborator Integration**: Native out-of-band detection support
 - **Professional UI Dashboard**: Real-time statistics and vulnerability tracking
 - **Comprehensive Payload Generation**: 50+ advanced payload types for different scenarios
@@ -60,7 +60,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Initial release of BackSense
-- Basic SSRF detection capabilities
+- Basic server-side vulnerability detection capabilities
 - Simple UI interface
 - Basic payload generation
 
@@ -77,7 +77,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Version 1.0.0 (Legacy)
 - **Release Date**: December 1, 2024
 - **Status**: Deprecated
-- **Key Features**: Basic SSRF detection
+- **Key Features**: Basic server-side vulnerability detection
 - **Compatibility**: Burp Suite Professional 2022.1+
 
 ---

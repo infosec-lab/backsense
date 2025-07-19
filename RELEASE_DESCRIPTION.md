@@ -10,7 +10,7 @@
 
 **[BackSense-v2.0.0.jar](https://github.com/infosec-lab/backsense/releases/download/v2.0.0/BackSense-v2.0.0.jar)** *(398 KB)*
 
-**Professional SSRF detection extension with advanced payload generation and comprehensive validation.**
+**Professional server-side vulnerability detection extension with advanced payload generation and comprehensive validation.**
 
 ---
 
@@ -57,7 +57,7 @@
 ## 🎯 **Use Cases**
 
 ### **Security Professionals**
-- **Penetration Testers** - Comprehensive SSRF detection
+- **Penetration Testers** - Comprehensive server-side vulnerability detection
 - **Security Consultants** - Professional vulnerability assessments
 - **Bug Bounty Hunters** - Advanced payload generation
 - **Security Researchers** - Cutting-edge detection techniques
@@ -102,6 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**BackSense v2.0.0** - Professional SSRF Detection for Modern Web Applications
+**BackSense v2.0.0** - Professional Server-Side Vulnerability Detection for Modern Web Applications
 
 *Built with ❤️ for the security community* 

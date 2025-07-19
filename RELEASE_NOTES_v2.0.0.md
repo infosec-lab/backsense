@@ -18,7 +18,7 @@
 - **Size**: 398KB
 - **Type**: Production-ready JAR
 - **Use**: Production deployment, enterprise clients, security professionals
-- **Features**: Optimized performance, comprehensive SSRF detection, professional UI
+- **Features**: Optimized performance, comprehensive server-side vulnerability detection, professional UI
 
 ---
 
@@ -107,7 +107,7 @@
 ## 🎯 Use Cases
 
 ### **Security Professionals**
-- **Penetration Testers** - Comprehensive SSRF detection
+- **Penetration Testers** - Comprehensive server-side vulnerability detection
 - **Security Consultants** - Professional vulnerability assessments
 - **Bug Bounty Hunters** - Advanced payload generation
 - **Security Researchers** - Cutting-edge detection techniques
@@ -148,7 +148,7 @@ For enterprise support, custom development, or security consulting:
 ### **v1.0.0** (Legacy)
 - **Release Date**: December 1, 2024
 - **Status**: Deprecated
-- **Key Features**: Basic SSRF detection
+- **Key Features**: Basic server-side vulnerability detection
 - **Compatibility**: Burp Suite Professional 2022.1+
 
 ---
@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**BackSense v2.0.0** - Professional SSRF Detection for Modern Web Applications
+**BackSense v2.0.0** - Professional Server-Side Vulnerability Detection for Modern Web Applications
 
 *Built with ❤️ for the security community*  
 *Optimized with ⚡ for enterprise deployment* 
