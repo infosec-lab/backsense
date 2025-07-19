@@ -1,12 +1,11 @@
-# 🔒 BackSense v2.0.0 - Professional Release
+# 🔒 Advanced Server-Side Vulnerability Detection Extension for Burp Suite
 
-**Advanced Server-Side Vulnerability Detection Extension for Burp Suite**  
 *Professional-Grade Security Tool with Comprehensive Detection Engines*
 
-> **Note**: Currently in active development. Core detection engines (SSRF, SSTI, XXE, WAF bypass) are fully functional. Additional UI enhancements and integrations planned for future releases.
+> _**Note**: Currently in active development. Core detection engines (SSRF, SSTI, XXE, WAF bypass) are fully functional. Additional UI enhancements and integrations planned for future releases_.
 
-**Release Date**: January 27, 2025  
-**Developer**: Vikas Kumar - Senior Security Consultant & AI-Augmented Developer  
+**Release Date**: July 19, 2025  
+**Part-Time Developer**: Vikas Kumar - Senior Security Consultant  
 **Contact**: infoseclab005@gmail.com  
 **LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)
 
@@ -139,14 +138,14 @@ For enterprise support, custom development, or security consulting:
 ## 🔄 Version History
 
 ### **v2.0.0** (Current Release)
-- **Release Date**: January 27, 2025
+- **Release Date**: July 19, 2025
 - **Status**: Production Ready
 - **Key Features**: Advanced detection engine, professional UI, comprehensive payload generation
 - **Security**: Obfuscated version available for commercial use
 - **Compatibility**: Burp Suite Professional 2023.1+
 
 ### **v1.0.0** (Legacy)
-- **Release Date**: December 1, 2024
+- **Release Date**: April 22, 2025
 - **Status**: Deprecated
 - **Key Features**: Basic server-side vulnerability detection
 - **Compatibility**: Burp Suite Professional 2022.1+
