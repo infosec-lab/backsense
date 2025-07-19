@@ -154,11 +154,11 @@ By contributing to BackSense, you agree that your contributions will be licensed
 For questions or support:
 - Create an issue on GitHub
 - Join our community discussions
-- Contact the maintainer: **Vikas Kumar** - Senior Security Consultant & AI-Augmented Developer - [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)
+- Contact the maintainer: **Vikas Kumar** - Senior Security Consultant - [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)
 
 ## 🏆 **Credits**
 
-**Vikas Kumar** - Senior Security Consultant & AI-Augmented Developer  
+**Vikas Kumar** - Senior Security Consultant 
 📧 **Email**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)  
 🔗 **LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)  
 
