@@ -278,28 +278,6 @@ mvn clean compile
 
 ---
 
-## 📞 **Support & Contact**
-
-### **Technical Support**
-- 📧 **Email**: [infoseclab005@gmail.com](mailto:infoseclab005@gmail.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/infosec-lab/backsense/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/infosec-lab/backsense/wiki)
-
-### **Professional Services**
-For enterprise support, custom development, or security consulting:
-- **Security Assessments** - Comprehensive penetration testing and vulnerability assessments
-- **Tool Development** - Custom Burp Suite extensions and security automation tools
-- **Training** - Security awareness workshops and technical training
-- **Consulting** - Strategic security guidance and implementation support
-
----
-
-## 📄 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 <div align="center">
 
 **BackSense** - Professional Server-Side Vulnerability Detection for Modern Web Applications
