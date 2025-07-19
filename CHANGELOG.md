@@ -5,9 +5,9 @@ All notable changes to BackSense will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.0] - 2025-01-27
+## [2.0.0] - 2025-07-19
 
-**Developer**: Vikas Kumar - Senior Security Consultant & AI-Augmented Developer  
+**Part-Time Developer**: Vikas Kumar - Senior Security Consultant  
 **Contact**: infoseclab005@gmail.com  
 **LinkedIn**: [Vikas Kumar](https://www.linkedin.com/in/vikas-k-8b2a495b/)
 
@@ -56,7 +56,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Smart Caching**: Intelligent payload caching and reuse
 - **Resource Management**: Proper resource cleanup and management
 
-## [1.0.0] - 2024-12-01
+## [1.0.0] - 2025-22-04
 
 ### Added
 - Initial release of BackSense
@@ -69,13 +69,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Version History
 
 ### Version 2.0.0 (Current)
-- **Release Date**: January 27, 2025
+- **Release Date**: July 19, 2025
 - **Status**: Production Ready
 - **Key Features**: Advanced detection engine, professional UI, comprehensive payload generation
 - **Compatibility**: Burp Suite Professional 2023.1+
 
 ### Version 1.0.0 (Legacy)
-- **Release Date**: December 1, 2024
+- **Release Date**: April 22, 2025
 - **Status**: Deprecated
 - **Key Features**: Basic server-side vulnerability detection
 - **Compatibility**: Burp Suite Professional 2022.1+
