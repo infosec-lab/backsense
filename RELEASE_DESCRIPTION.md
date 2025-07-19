@@ -1,27 +1,8 @@
-# 🔍 BackSense v2.0.0 - Professional SSRF Detection Extension
+# 🔍 BackSense v2.0.0 - Professional Vulnerability Detection Extension
 
-**Advanced Server-Side Request Forgery Detection for Burp Suite Professional**
+**Advanced Vulnerability Detection for Burp Suite Professional**
 
-## ⚠️ **Development Status**
-
-> **Note**: BackSense v2.0.0 is currently in active development with comprehensive core functionality implemented. The extension includes advanced SSRF, SSTI, XXE detection engines and WAF bypass techniques that are fully functional and tested. Additional integrations and UI enhancements are planned for future releases.
-
-### **✅ Currently Implemented & Working**
-- **🔍 Multi-Stage SSRF Detection**: 5-stage validation with 100% true positive accuracy
-- **🌐 Cloud Metadata Attacks**: AWS, Azure, GCP, Digital Ocean, Alibaba Cloud support
-- **🕸️ Internal Network Scanning**: Localhost, internal services, port scanning
-- **🛡️ WAF Bypass Techniques**: 50+ advanced bypass methods for modern WAFs
-- **📊 Professional Dashboard**: Real-time monitoring and vulnerability tracking
-- **🔗 Burp Collaborator Integration**: Native out-of-band detection
-- **🎯 SSTI Detection Engine**: Server-Side Template Injection detection
-- **⚡ XXE Detection Engine**: XML External Entity injection detection
-- **📈 Advanced Payload Generation**: 500+ context-aware payloads
-
-### **🔄 In Development**
-- **Enhanced UI/UX**: Additional interface improvements
-- **Advanced Reporting**: Extended vulnerability reporting features
-- **Performance Optimizations**: Further scanning optimizations
-- **Additional Integrations**: Extended Burp Suite tool integrations
+> **Note**: Currently in active development. Core detection engines (SSRF, SSTI, XXE, WAF bypass) are fully functional. Additional UI enhancements and integrations planned for future releases.
 
 ---
 

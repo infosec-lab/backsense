@@ -1,4 +1,4 @@
-# 🔍 BackSense - Advanced SSRF Detection Extension
+# 🔍 BackSense - Advanced Vulnerability Detection Extension
 
 <div align="center">
 
@@ -7,35 +7,16 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Professional-orange?style=for-the-badge&logo=security)
 ![Java](https://img.shields.io/badge/Java-8+-red?style=for-the-badge&logo=java)
 
-**Professional-Grade SSRF Detection with Multi-Stage Validation & 100% True Positive Accuracy**
+**Professional-Grade Vulnerability Detection with Multi-Stage Validation**
 
 [![GitHub release](https://img.shields.io/github/v/release/infosec-lab/backsense)](https://github.com/infosec-lab/backsense/releases)
 [![GitHub stars](https://img.shields.io/github/stars/infosec-lab/backsense?style=social)](https://github.com/infosec-lab/backsense)
 [![GitHub forks](https://img.shields.io/github/forks/infosec-lab/backsense?style=social)](https://github.com/infosec-lab/backsense)
 [![GitHub issues](https://img.shields.io/github/issues/infosec-lab/backsense)](https://github.com/infosec-lab/backsense/issues)
 
-*A powerful Burp Suite extension for detecting Server-Side Request Forgery vulnerabilities with advanced payload generation and comprehensive validation.*
+*A comprehensive Burp Suite extension for detecting SSRF, SSTI, XXE vulnerabilities and WAF bypass techniques.*
 
-## ⚠️ **Development Status**
-
-> **Note**: BackSense v2.0.0 is currently in active development with comprehensive core functionality implemented. The extension includes advanced SSRF, SSTI, XXE detection engines and WAF bypass techniques that are fully functional and tested. Additional integrations and UI enhancements are planned for future releases.
-
-### **✅ Currently Implemented & Working**
-- **🔍 Multi-Stage SSRF Detection**: 5-stage validation with 100% true positive accuracy
-- **🌐 Cloud Metadata Attacks**: AWS, Azure, GCP, Digital Ocean, Alibaba Cloud support
-- **🕸️ Internal Network Scanning**: Localhost, internal services, port scanning
-- **🛡️ WAF Bypass Techniques**: 50+ advanced bypass methods for modern WAFs
-- **📊 Professional Dashboard**: Real-time monitoring and vulnerability tracking
-- **🔗 Burp Collaborator Integration**: Native out-of-band detection
-- **🎯 SSTI Detection Engine**: Server-Side Template Injection detection
-- **⚡ XXE Detection Engine**: XML External Entity injection detection
-- **📈 Advanced Payload Generation**: 500+ context-aware payloads
-
-### **🔄 In Development**
-- **Enhanced UI/UX**: Additional interface improvements
-- **Advanced Reporting**: Extended vulnerability reporting features
-- **Performance Optimizations**: Further scanning optimizations
-- **Additional Integrations**: Extended Burp Suite tool integrations
+> **Note**: Currently in active development. Core detection engines (SSRF, SSTI, XXE, WAF bypass) are fully functional. Additional UI enhancements and integrations planned for future releases.
 
 </div>
 
