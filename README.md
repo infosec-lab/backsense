@@ -100,7 +100,7 @@
 ## 🎮 **Usage & Configuration**
 
 ### **⚡ Quick Start**
-1. **Download**: Get `BackSense-v2.0.0-obfuscated.jar` from [Releases](https://github.com/infosec-lab/backsense/releases)
+1. **Download**: Get `BackSense-v2.0.0.jar` from [Releases](https://github.com/infosec-lab/backsense/releases)
 2. **Install**: Load in Burp Suite Professional → Extensions → User Extensions
 3. **Configure**: Set up collaborator and detection parameters
 4. **Scan**: Use Active or Passive scanning modes
